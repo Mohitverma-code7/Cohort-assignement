@@ -3,7 +3,7 @@ name: Deploy Resume Website
 on:
   push:
     branches:
-      - main
+      - master
 
 permissions:
   contents: read
