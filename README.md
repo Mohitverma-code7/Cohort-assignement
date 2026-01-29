@@ -3,7 +3,8 @@
 This project is a single-page resume website created using pure HTML as part of a cohort assignment.
 
 ## 🔗 Live Demo
-https://mohitverma-code7.github.io/Cohort-assignment/
+https://mohitverma-code7.github.io/Cohort-assignement/
+
 
 ## 📁 Project Structure
 Cohort-assignment/
